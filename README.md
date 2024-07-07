@@ -3,11 +3,11 @@
 Citation: 
 
 ```
-@inproceedings{ramaswamy2022geode,
+@inproceedings{ramaswamy2023geode,
         author = {Vikram V. Ramaswamy and Sing Yu Lin and Dora Zhao and Aaron B. Adcock and Laurens van der Maaten
                   and Deepti Ghadiyaram and Olga Russakovsky},
         title = {GeoDE: a Geographically Diverse Evaluation Dataset for Object Recognition},
-        booktitle = {arXiv preprint},
+        booktitle = {NeurIPS Datasets and Benchmarks},
         year = {2023}
     }
 
