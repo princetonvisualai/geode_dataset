@@ -13,7 +13,7 @@ Citation:
 
 ```
 
-Website link: https://geodiverse-data-collection.cs.princeton.edu/
+Website link: https://visualai.princeton.edu/geode/
 
 Code is still being cleaned and released, more user friendly instructions to come. 
 
